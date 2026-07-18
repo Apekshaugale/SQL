@@ -1,0 +1,10 @@
+"employee_id","name","position","department","hire_date","salary"
+102,"Priya Sharma","HR Executive","Human Resources","2020-03-18",58000.00
+103,"Karan Mehta","Business Analyst","Business","2022-11-05",67000.00
+104,"Neha Joshi","Data Scientist","Data Science","2019-07-22",91000.00
+105,"Vikram Deshmukh","Project Manager","Management","2018-01-15",98000.00
+106,"Sneha Kulkarni","UI Designer","Design","2023-06-10",60000.00
+107,"Arjun Verma","Network Engineer","Infrastructure","2020-09-25",69000.00
+108,"Pooja Nair","QA Engineer","Testing","2021-12-01",62000.00
+109,"Rahul Singh","Cloud Engineer","Cloud","2022-04-19",88000.00
+110,"Anjali Gupta","Finance Executive","Finance","2019-10-30",64000.00
