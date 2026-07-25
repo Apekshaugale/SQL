@@ -1,0 +1,6 @@
+"employee_id","first_name","last_name","dept_name","salary","joining_date","age","email"
+1,"Amit","Sharma","IT",66000,"2022-05-01",30,"company@gmail.com"
+2,"Neha","Patel","HR",55000,"2021-08-15",33,"company@gmail.com"
+4,"Anjali","Verma","IT",71500,"2019-11-22",29,NULL
+5,"Suresh","Reddy","Operations",50000,"2023-01-10",27,NULL
+6,"Raj","Singh","Marketing",60000,"2023-09-15",31,"company@gmail.com"

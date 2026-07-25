@@ -1,0 +1,5 @@
+"employee_id","first_name","last_name","dept_name","salary","joining_date","age","email"
+2,"Neha","Patel","HR",55000.00,"2021-08-15",32,NULL
+5,"Suresh","Reddy","Operations",50000.00,"2023-01-10",26,NULL
+1,"Amit","Sharma","IT",66000.00,"2022-05-01",29,NULL
+4,"Anjali","Verma","IT",71500.00,"2019-11-22",28,NULL
