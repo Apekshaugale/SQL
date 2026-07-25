@@ -45,14 +45,11 @@ UPDATE users
 SET city='Chennai'
 WHERE age>=30;
 
-SELECT * FROM users;
 
 
 UPDATE users
 SET age=31, city='kolkat1a'
 WHERE username='Priya';
-
-SELECT * FROM users;
 
 UPDATE users
 SET age=age+1
@@ -60,7 +57,6 @@ WHERE email LIKE '%@gmail.com';
 
 
 DELETE FROM users WHERE user_id=6;
-SELECT * FROM users;
 
 
 -- To Rename the username column to Full_Name
@@ -88,8 +84,11 @@ ALTER TABLE users
 DROP CONSTRAINT age;
 
 
+
 ALTER TABLE users
 ADD CONSTRAINT age CHECK(age>=18);
+
+SELECT * FROM USERS ORDER BY USER_ID ASC;
 
 -- inserting data to check constraint of age
 INSERT INTO USERS (FULL_NAME,EMAIL, AGE,CITY)
@@ -100,4 +99,4 @@ VALUES ('Vinod', 'rajesh@gmail.com',19, 'Mumbai');
 ALTER TABLE users
 RENAME TO customers;
 
-SELECT * FROM customer ORDER BY USER_ID ASC;
+SELECT * FROM customers ORDER BY USER_ID ASC;
